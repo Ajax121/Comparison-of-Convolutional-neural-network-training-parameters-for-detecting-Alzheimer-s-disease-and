@@ -1,0 +1,1 @@
+# Comparison-of-Convolutional-neural-network-training-parameters-for-detecting-Alzheimer-s-disease-and
