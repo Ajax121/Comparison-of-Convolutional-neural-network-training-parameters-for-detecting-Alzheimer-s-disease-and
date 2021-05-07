@@ -12,3 +12,7 @@ of the practical usefulness and capability of these algorithms.
 Therefore, this thesis has two goals:
 1. To systematically evaluate the influence of CNN hyper-parameters on model accuracy
 2. To compare various visualization methods with respect to the quality (i.e. randomness/focus, soundness)
+
+Visualizuation of relevant areas in the MRI scan relevant to the classification of Alzheimer's disease.
+
+![](MRI-relevance-map-visualization-using-Bokeh.gif)
