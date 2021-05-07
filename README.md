@@ -17,6 +17,6 @@ Visualization of relevant areas in the MRI scan relevant to the classification o
 
 Bokeh server is run on local machine for the visualization purpose.
 Here we can select the subject and the coronal slice for which we can visualize the relevant areas that the model considers for the classification.
-The hippocampus region highted by the model corresponds to the major region attrophied in the case of Alzheimer's disease in medical literature.
+The hippocampus region highlighted by the model corresponds to the major region attrophied in the case of Alzheimer's disease in medical literature.
 
 ![](MRI-relevance-map-visualization-using-Bokeh.gif)
