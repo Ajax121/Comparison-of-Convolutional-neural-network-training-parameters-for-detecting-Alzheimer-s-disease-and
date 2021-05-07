@@ -13,6 +13,10 @@ Therefore, this thesis has two goals:
 1. To systematically evaluate the influence of CNN hyper-parameters on model accuracy
 2. To compare various visualization methods with respect to the quality (i.e. randomness/focus, soundness)
 
-Visualizuation of relevant areas in the MRI scan relevant to the classification of Alzheimer's disease.
+Visualization of relevant areas in the MRI scan relevant to the classification of Alzheimer's disease.
+
+Bokeh server is run on local machine for the visualization purpose.
+Here we can select the subject and the coronal slice for which we can visualize the relevant areas that the model considers for the classification.
+The hippocampus region highted by the model corresponds to the major region attrophied in the case of Alzheimer's disease in medical literature.
 
 ![](MRI-relevance-map-visualization-using-Bokeh.gif)
